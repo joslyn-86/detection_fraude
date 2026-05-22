@@ -14,20 +14,20 @@ Le réseau contient différents types de profils :
 
 ---
 
-# 🚀 Fonctionnalités
+#  Fonctionnalités
 
-- 🎲 Génération aléatoire d’un graphe réaliste  
-- 🎨 Visualisation interactive du réseau  
-- 🔗 Création automatique des relations  
-- 🗄️ Export direct vers Neo4j (sans CSV)  
-- 📊 Analyse du graphe (nombre de nœuds, relations, etc.)  
-- ⚡ Requêtes Cypher pour exploration  
+- Génération aléatoire d’un graphe réaliste  
+- Visualisation interactive du réseau  
+- Création automatique des relations  
+- Export direct vers Neo4j (sans CSV)  
+- Analyse du graphe (nombre de nœuds, relations, etc.)  
+- Requêtes Cypher pour exploration  
 
 ---
 
-# 🛠️ Technologies utilisées
+#  Technologies utilisées
 
-- Python 🐍  
+- Python
 - NetworkX  
 - Matplotlib  
 - Neo4j  
